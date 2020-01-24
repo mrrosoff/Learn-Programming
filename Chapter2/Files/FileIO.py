@@ -6,7 +6,7 @@ if __name__ == "__main__":
 
     # Open a file using the open function, with the second argument as "r"
 
-    aFile = open("../ChapterTwoInstructions.txt", "r")
+    aFile = open("../Instructions.md", "r")
 
     # Python for loops are beautiful, let us use them as so...
 
@@ -17,3 +17,5 @@ if __name__ == "__main__":
         line = line.strip()
 
         print(line)
+
+        # You would then process the line here, instead of printing

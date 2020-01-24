@@ -1,4 +1,4 @@
-Instructions for Setting Up A DEV-ENV:
+#Instructions for Setting Up A Development Environment:
 
 1. Download Python from the internet at https://www.python.org/. Install using the recommended settings
 2. Download Pycharm from the internet. The Professional Edition is free with a student email
