@@ -17,8 +17,5 @@
 ### The Tests should be completed in the following order.
 
 1. TestTwoOne
-2. TestTwoTwo
-3. TestTwoThree
-4. TestTwoFour
 
 ### Good Luck!

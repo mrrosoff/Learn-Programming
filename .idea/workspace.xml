@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3ef76a0-8275-4cea-94e0-584569601e9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Tests/TestInstructions.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/bin/activate.fish" afterDir="false" />
@@ -333,26 +333,11 @@
       <change afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools.pth" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/lib64" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter1/ChapterOneInstructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/Instructions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/ChapterTwoInstructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Instructions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter2/Files/FileIO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Files/FileIO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/ChapterTwoInstructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter3/Instructions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Files/ForLoopList.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Files/ForLoopRange.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Files/IfConditions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Files/RamificationsOfTypes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Files/Range.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Files/SomeMoreAboutIf.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Files/SomeMoreAboutLists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Files/SomeMoreAboutLoops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Files/WhileLoops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Tests/TestTwoOne.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/Tests/TestTwoTwo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SettingUpADevEnv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SettingUpDevEnv.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/Tests/TestTwoOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Tests/TestTwoOne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/Tests/TestTwoTwo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter3/Instructions.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -377,52 +362,6 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.FileIO">
-    <configuration default="true" type="DjangoTestsConfigurationType">
-      <module name="Learn-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <module name="Learn-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
-      <module name="Learn-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="FileIO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -489,87 +428,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="Learn-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Python.FlaskServer">
-      <module name="Learn-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="Learn-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="Learn-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <module name="Learn-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.FileIO" />
@@ -602,12 +460,26 @@
       <updated>1579028615361</updated>
       <workItem from="1579028620376" duration="488000" />
       <workItem from="1579903629160" duration="756000" />
-      <workItem from="1579908305748" duration="900000" />
+      <workItem from="1579908305748" duration="1027000" />
+      <workItem from="1580152204642" duration="4000" />
+      <workItem from="1580165128423" duration="1419000" />
     </task>
+    <task id="LOCAL-00001" summary="Fix Packaging and Finish Chapter Two files">
+      <created>1579909251330</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579909251330</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix Packaging and Finish Chapter Two files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix Packaging and Finish Chapter Two files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="469" y="134" width="558" height="774" key="#Print" timestamp="1579028825847">
@@ -618,35 +490,43 @@
       <screen x="0" y="30" width="1500" height="970" />
     </state>
     <state x="212" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1500.970@0.30.1500.970" timestamp="1579028942640" />
+    <state x="358" y="89" width="780" height="810" key="CommitChangelistDialog2" timestamp="1579909251160">
+      <screen x="0" y="30" width="1500" height="915" />
+    </state>
+    <state x="358" y="89" width="780" height="810" key="CommitChangelistDialog2/0.30.1500.915@0.30.1500.915" timestamp="1579909251160" />
     <state x="536" y="260" width="424" height="517" key="FileChooserDialogImpl" timestamp="1579908650653">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
     <state x="536" y="260" width="424" height="517" key="FileChooserDialogImpl/0.30.1500.915@0.30.1500.915" timestamp="1579908650653" />
-    <state width="1354" height="217" key="GridCell.Tab.0.bottom" timestamp="1579909112644">
+    <state width="1354" height="217" key="GridCell.Tab.0.bottom" timestamp="1579909332474">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state width="1354" height="217" key="GridCell.Tab.0.bottom/0.30.1500.915@0.30.1500.915" timestamp="1579909112644" />
+    <state width="1354" height="217" key="GridCell.Tab.0.bottom/0.30.1500.915@0.30.1500.915" timestamp="1579909332474" />
     <state width="1354" height="236" key="GridCell.Tab.0.bottom/0.30.1500.970@0.30.1500.970" timestamp="1579029107587" />
-    <state width="1354" height="217" key="GridCell.Tab.0.center" timestamp="1579909112644">
+    <state width="1354" height="217" key="GridCell.Tab.0.center" timestamp="1579909332474">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state width="1354" height="217" key="GridCell.Tab.0.center/0.30.1500.915@0.30.1500.915" timestamp="1579909112644" />
+    <state width="1354" height="217" key="GridCell.Tab.0.center/0.30.1500.915@0.30.1500.915" timestamp="1579909332474" />
     <state width="1354" height="236" key="GridCell.Tab.0.center/0.30.1500.970@0.30.1500.970" timestamp="1579029107587" />
-    <state width="1354" height="217" key="GridCell.Tab.0.left" timestamp="1579909112644">
+    <state width="1354" height="217" key="GridCell.Tab.0.left" timestamp="1579909332473">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state width="1354" height="217" key="GridCell.Tab.0.left/0.30.1500.915@0.30.1500.915" timestamp="1579909112644" />
+    <state width="1354" height="217" key="GridCell.Tab.0.left/0.30.1500.915@0.30.1500.915" timestamp="1579909332473" />
     <state width="1354" height="236" key="GridCell.Tab.0.left/0.30.1500.970@0.30.1500.970" timestamp="1579029107586" />
-    <state width="1354" height="217" key="GridCell.Tab.0.right" timestamp="1579909112644">
+    <state width="1354" height="217" key="GridCell.Tab.0.right" timestamp="1579909332474">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state width="1354" height="217" key="GridCell.Tab.0.right/0.30.1500.915@0.30.1500.915" timestamp="1579909112644" />
+    <state width="1354" height="217" key="GridCell.Tab.0.right/0.30.1500.915@0.30.1500.915" timestamp="1579909332474" />
     <state width="1354" height="236" key="GridCell.Tab.0.right/0.30.1500.970@0.30.1500.970" timestamp="1579029107587" />
     <state x="257" y="141" width="986" height="735" key="SettingsEditor" timestamp="1579908816884">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
     <state x="257" y="141" width="986" height="735" key="SettingsEditor/0.30.1500.915@0.30.1500.915" timestamp="1579908816884" />
     <state x="257" y="152" width="986" height="735" key="SettingsEditor/0.30.1500.970@0.30.1500.970" timestamp="1579029086812" />
+    <state x="348" y="227" width="800" height="533" key="Vcs.Push.Dialog.v2" timestamp="1579909253023">
+      <screen x="0" y="30" width="1500" height="915" />
+    </state>
+    <state x="348" y="227" width="800" height="533" key="Vcs.Push.Dialog.v2/0.30.1500.915@0.30.1500.915" timestamp="1579909253023" />
     <state x="445" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1579028622433">
       <screen x="0" y="30" width="1500" height="970" />
     </state>
