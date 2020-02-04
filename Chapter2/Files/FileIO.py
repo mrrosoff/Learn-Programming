@@ -9,7 +9,7 @@ if __name__ == "__main__":
     # The file path is usually relative, or based on the scripts file location. The two dots here indicate that I want
     # to start up one directory. If I wanted to access a file in the same directory, I would write "./aFile.txt"
 
-    aFile = open("../Instructions.md", "r")
+    aFile = open("../README.md", "r")
 
     # Python for loops are beautiful, let us use them as so...
 

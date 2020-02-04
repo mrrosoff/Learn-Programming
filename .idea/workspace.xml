@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3ef76a0-8275-4cea-94e0-584569601e9d" name="Default Changelist" comment="" />
+    <list default="true" id="a3ef76a0-8275-4cea-94e0-584569601e9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/Files/FileIO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Files/FileIO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/Instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter4/Instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter4/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +149,7 @@
       <workItem from="1580165128423" duration="1419000" />
       <workItem from="1580250418563" duration="72000" />
       <workItem from="1580250501575" duration="4000" />
-      <workItem from="1580778323523" duration="1058000" />
+      <workItem from="1580778323523" duration="1182000" />
     </task>
     <task id="LOCAL-00001" summary="Fix Packaging and Finish Chapter Two files">
       <created>1579909251330</created>
@@ -173,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580779393808</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Test">
+      <created>1580779450288</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580779450288</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +197,8 @@
     <MESSAGE value="Add Rest of Layout for Files. Add Project Structure." />
     <MESSAGE value="Add GitIgnore" />
     <MESSAGE value="Remove venv from Git" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove venv from Git" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="469" y="134" width="558" height="774" key="#Print" timestamp="1579028825847">
@@ -199,10 +213,10 @@
       <screen x="0" y="30" width="1500" height="915" />
     </state>
     <state x="512" y="286" width="488" height="394" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1500.915@0.30.1500.915" timestamp="1580779273009" />
-    <state x="358" y="79" width="780" height="810" key="CommitChangelistDialog2" timestamp="1580779393648">
+    <state x="358" y="77" width="780" height="810" key="CommitChangelistDialog2" timestamp="1580779450206">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state x="358" y="79" width="780" height="810" key="CommitChangelistDialog2/0.30.1500.915@0.30.1500.915" timestamp="1580779393648" />
+    <state x="358" y="77" width="780" height="810" key="CommitChangelistDialog2/0.30.1500.915@0.30.1500.915" timestamp="1580779450206" />
     <state x="536" y="260" width="424" height="517" key="FileChooserDialogImpl" timestamp="1579908650653">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
@@ -231,15 +245,15 @@
       <screen x="0" y="30" width="1500" height="915" />
     </state>
     <state x="532" y="217" width="431" height="555" key="RollbackChangesDialog/0.30.1500.915@0.30.1500.915" timestamp="1580779327143" />
-    <state x="257" y="141" width="986" height="735" key="SettingsEditor" timestamp="1579908816884">
+    <state x="257" y="139" width="986" height="735" key="SettingsEditor" timestamp="1580779518674">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state x="257" y="141" width="986" height="735" key="SettingsEditor/0.30.1500.915@0.30.1500.915" timestamp="1579908816884" />
+    <state x="257" y="139" width="986" height="735" key="SettingsEditor/0.30.1500.915@0.30.1500.915" timestamp="1580779518674" />
     <state x="257" y="152" width="986" height="735" key="SettingsEditor/0.30.1500.970@0.30.1500.970" timestamp="1579029086812" />
-    <state x="348" y="219" width="800" height="533" key="Vcs.Push.Dialog.v2" timestamp="1580779395028">
+    <state x="348" y="217" width="800" height="533" key="Vcs.Push.Dialog.v2" timestamp="1580779451384">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state x="348" y="219" width="800" height="533" key="Vcs.Push.Dialog.v2/0.30.1500.915@0.30.1500.915" timestamp="1580779395028" />
+    <state x="348" y="217" width="800" height="533" key="Vcs.Push.Dialog.v2/0.30.1500.915@0.30.1500.915" timestamp="1580779451384" />
     <state x="445" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1579028622433">
       <screen x="0" y="30" width="1500" height="970" />
     </state>
