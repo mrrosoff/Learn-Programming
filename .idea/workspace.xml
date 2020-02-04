@@ -519,10 +519,14 @@
       <screen x="0" y="30" width="1500" height="970" />
     </state>
     <state x="212" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1500.970@0.30.1500.970" timestamp="1579028942640" />
-    <state x="358" y="83" width="780" height="810" key="CommitChangelistDialog2" timestamp="1580779202100">
+    <state x="512" y="286" width="488" height="394" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580779273009">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state x="358" y="83" width="780" height="810" key="CommitChangelistDialog2/0.30.1500.915@0.30.1500.915" timestamp="1580779202100" />
+    <state x="512" y="286" width="488" height="394" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1500.915@0.30.1500.915" timestamp="1580779273009" />
+    <state x="358" y="81" width="780" height="810" key="CommitChangelistDialog2" timestamp="1580779245215">
+      <screen x="0" y="30" width="1500" height="915" />
+    </state>
+    <state x="358" y="81" width="780" height="810" key="CommitChangelistDialog2/0.30.1500.915@0.30.1500.915" timestamp="1580779245215" />
     <state x="536" y="260" width="424" height="517" key="FileChooserDialogImpl" timestamp="1579908650653">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
@@ -547,15 +551,19 @@
     </state>
     <state width="1354" height="217" key="GridCell.Tab.0.right/0.30.1500.915@0.30.1500.915" timestamp="1579909332474" />
     <state width="1354" height="236" key="GridCell.Tab.0.right/0.30.1500.970@0.30.1500.970" timestamp="1579029107587" />
+    <state x="532" y="217" width="431" height="555" key="RollbackChangesDialog" timestamp="1580779327143">
+      <screen x="0" y="30" width="1500" height="915" />
+    </state>
+    <state x="532" y="217" width="431" height="555" key="RollbackChangesDialog/0.30.1500.915@0.30.1500.915" timestamp="1580779327143" />
     <state x="257" y="141" width="986" height="735" key="SettingsEditor" timestamp="1579908816884">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
     <state x="257" y="141" width="986" height="735" key="SettingsEditor/0.30.1500.915@0.30.1500.915" timestamp="1579908816884" />
     <state x="257" y="152" width="986" height="735" key="SettingsEditor/0.30.1500.970@0.30.1500.970" timestamp="1579029086812" />
-    <state x="348" y="223" width="800" height="533" key="Vcs.Push.Dialog.v2" timestamp="1580779197411">
+    <state x="348" y="221" width="800" height="533" key="Vcs.Push.Dialog.v2" timestamp="1580779252176">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state x="348" y="223" width="800" height="533" key="Vcs.Push.Dialog.v2/0.30.1500.915@0.30.1500.915" timestamp="1580779197411" />
+    <state x="348" y="221" width="800" height="533" key="Vcs.Push.Dialog.v2/0.30.1500.915@0.30.1500.915" timestamp="1580779252176" />
     <state x="445" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1579028622433">
       <screen x="0" y="30" width="1500" height="970" />
     </state>
@@ -564,9 +572,10 @@
       <screen x="0" y="30" width="1500" height="915" />
     </state>
     <state x="557" y="411" width="381" height="165" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.1500.915@0.30.1500.915" timestamp="1579908324341" />
-    <state x="478" y="412" width="540" height="218" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1579028974395">
-      <screen x="0" y="30" width="1500" height="970" />
+    <state x="478" y="388" width="540" height="218" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580779367147">
+      <screen x="0" y="30" width="1500" height="915" />
     </state>
+    <state x="478" y="388" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.30.1500.915@0.30.1500.915" timestamp="1580779367147" />
     <state x="478" y="412" width="540" height="218" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.30.1500.970@0.30.1500.970" timestamp="1579028974395" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
