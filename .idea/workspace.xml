@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3ef76a0-8275-4cea-94e0-584569601e9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter2/Tests/TestInstructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/Files/Classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/Files/Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/Files/Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/Files/Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/Files/Iterators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/Files/Sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/Files/Tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/Files/MatPlotLib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/Files/Numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/Files/Pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/Instructions.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/bin/activate.fish" afterDir="false" />
@@ -334,21 +344,32 @@
       <change afterPath="$PROJECT_DIR$/venv/lib64" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/Files/FileIO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Files/FileIO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/Tests/TestTwoOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Tests/TestTwoOne.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/Tests/TestTwoTwo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/Instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/Instructions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/Instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Instructions.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter3/Instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter3/Instructions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SettingUpDevEnv.md" beforeDir="false" afterPath="$PROJECT_DIR$/SettingUpDevEnv.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1WOleCUGgQAw0vDHs9mcWhRVXho" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -358,8 +379,13 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter4" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter4" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.FileIO">
     <configuration name="FileIO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -463,6 +489,9 @@
       <workItem from="1579908305748" duration="1027000" />
       <workItem from="1580152204642" duration="4000" />
       <workItem from="1580165128423" duration="1419000" />
+      <workItem from="1580250418563" duration="72000" />
+      <workItem from="1580250501575" duration="4000" />
+      <workItem from="1580778323523" duration="828000" />
     </task>
     <task id="LOCAL-00001" summary="Fix Packaging and Finish Chapter Two files">
       <created>1579909251330</created>
@@ -490,10 +519,10 @@
       <screen x="0" y="30" width="1500" height="970" />
     </state>
     <state x="212" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1500.970@0.30.1500.970" timestamp="1579028942640" />
-    <state x="358" y="89" width="780" height="810" key="CommitChangelistDialog2" timestamp="1579909251160">
+    <state x="358" y="87" width="780" height="810" key="CommitChangelistDialog2" timestamp="1580166595682">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state x="358" y="89" width="780" height="810" key="CommitChangelistDialog2/0.30.1500.915@0.30.1500.915" timestamp="1579909251160" />
+    <state x="358" y="87" width="780" height="810" key="CommitChangelistDialog2/0.30.1500.915@0.30.1500.915" timestamp="1580166595682" />
     <state x="536" y="260" width="424" height="517" key="FileChooserDialogImpl" timestamp="1579908650653">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
@@ -523,10 +552,10 @@
     </state>
     <state x="257" y="141" width="986" height="735" key="SettingsEditor/0.30.1500.915@0.30.1500.915" timestamp="1579908816884" />
     <state x="257" y="152" width="986" height="735" key="SettingsEditor/0.30.1500.970@0.30.1500.970" timestamp="1579029086812" />
-    <state x="348" y="227" width="800" height="533" key="Vcs.Push.Dialog.v2" timestamp="1579909253023">
+    <state x="348" y="225" width="800" height="533" key="Vcs.Push.Dialog.v2" timestamp="1580166597891">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state x="348" y="227" width="800" height="533" key="Vcs.Push.Dialog.v2/0.30.1500.915@0.30.1500.915" timestamp="1579909253023" />
+    <state x="348" y="225" width="800" height="533" key="Vcs.Push.Dialog.v2/0.30.1500.915@0.30.1500.915" timestamp="1580166597891" />
     <state x="445" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1579028622433">
       <screen x="0" y="30" width="1500" height="970" />
     </state>

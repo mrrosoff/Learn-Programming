@@ -1,6 +1,7 @@
 
-## In Each file in Files you will find a file that explains a section of the Python programming language. 
-## Complete each file and then attempt the tests.
+### This Chapter is designed to introduce you to the basics of Python. 
+
+Concepts in this chapter are designed for new programmers.
 
 ### Files should be completed in the following order.
 
@@ -20,5 +21,3 @@
 
 1. TestOneOne
 2. TestOneTwo
-
-### Good Luck!

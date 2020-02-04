@@ -1,21 +1,19 @@
 
-## In Each file in Files you will find a file that explains a section of the Python programming language.
-## Complete each file and then attempt the tests. 
+### This Chapter is designed to introduce you to nuances of Python. 
+
+Concepts in this chapter are designed for advanced programmers.
 
 ### Files should be completed in the following order.
 
-1. SomeMoreAboutLists
-2. RamificationOfTypes
-3. IfConditions
-4. SomeMoreAboutIf
-5. WhileLoops
-6. Range
-7. ForLoopList
-8. ForLoopRange
-9. SomeMoreAboutLoops
+1. Tuples
+2. Sets
+3. Dictionaries
+4. Exceptions
+5. Classes
+6. Inheritance
+7. Iterators
 
 ### The Tests should be completed in the following order.
 
 1. TestTwoOne
-
-### Good Luck!
+1. TestTwoTwo
