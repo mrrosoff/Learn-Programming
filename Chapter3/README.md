@@ -18,5 +18,4 @@ advanced programmers.
 
 ### Tests
 
-- [Test Three One](./Tests/TestThreeOne.py)
-- [Test Three Two](./Tests/TestThreeTwo.py)
+There are no tests for this section. I encourage you to practice your Object Oriented Programming skills though!

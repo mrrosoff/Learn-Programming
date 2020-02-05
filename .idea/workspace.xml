@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3ef76a0-8275-4cea-94e0-584569601e9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Chapter4/Tests/TestFourOne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/Tests/TestInstructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/Tests/forestfires.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter4/Files/MatPlotLib.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter4/Files/MatPlotLib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter4/Files/Numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter4/Files/Numpy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter4/Files/Pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter4/Files/Pandas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/Tests/TestTwoOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Tests/TestTwoOne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter3/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter4/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +39,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter4/Tests" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,7 +49,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter4/Tests" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter4/Tests" />
       <recent name="$PROJECT_DIR$/Chapter4" />
     </key>
   </component>
@@ -203,7 +209,7 @@
       <workItem from="1580250501575" duration="4000" />
       <workItem from="1580778323523" duration="3387000" />
       <workItem from="1580873345454" duration="4244000" />
-      <workItem from="1580919056872" duration="1492000" />
+      <workItem from="1580919056872" duration="2923000" />
     </task>
     <task id="LOCAL-00001" summary="Fix Packaging and Finish Chapter Two files">
       <created>1579909251330</created>
@@ -261,11 +267,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580874259388</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Finish Chapter 4">
+      <created>1580920752658</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580920752658</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fix Packaging and Finish Chapter Two files" />
@@ -275,7 +291,8 @@
     <MESSAGE value="Test" />
     <MESSAGE value="Chapter 3" />
     <MESSAGE value="Update READMEs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update READMEs" />
+    <MESSAGE value="Finish Chapter 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish Chapter 4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="469" y="134" width="558" height="774" key="#Print" timestamp="1579028825847">
@@ -290,10 +307,10 @@
       <screen x="0" y="30" width="1500" height="915" />
     </state>
     <state x="512" y="286" width="488" height="394" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1500.915@0.30.1500.915" timestamp="1580779273009" />
-    <state x="358" y="71" width="780" height="810" key="CommitChangelistDialog2" timestamp="1580874259236">
+    <state x="358" y="69" width="780" height="810" key="CommitChangelistDialog2" timestamp="1580920752567">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state x="358" y="71" width="780" height="810" key="CommitChangelistDialog2/0.30.1500.915@0.30.1500.915" timestamp="1580874259236" />
+    <state x="358" y="69" width="780" height="810" key="CommitChangelistDialog2/0.30.1500.915@0.30.1500.915" timestamp="1580920752567" />
     <state x="536" y="260" width="424" height="517" key="FileChooserDialogImpl" timestamp="1579908650653">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
@@ -343,10 +360,10 @@
     </state>
     <state x="257" y="139" width="986" height="735" key="SettingsEditor/0.30.1500.915@0.30.1500.915" timestamp="1580779518674" />
     <state x="257" y="152" width="986" height="735" key="SettingsEditor/0.30.1500.970@0.30.1500.970" timestamp="1579029086812" />
-    <state x="348" y="211" width="800" height="533" key="Vcs.Push.Dialog.v2" timestamp="1580874261405">
+    <state x="348" y="209" width="800" height="533" key="Vcs.Push.Dialog.v2" timestamp="1580920754016">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state x="348" y="211" width="800" height="533" key="Vcs.Push.Dialog.v2/0.30.1500.915@0.30.1500.915" timestamp="1580874261405" />
+    <state x="348" y="209" width="800" height="533" key="Vcs.Push.Dialog.v2/0.30.1500.915@0.30.1500.915" timestamp="1580920754016" />
     <state x="445" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1579028622433">
       <screen x="0" y="30" width="1500" height="970" />
     </state>
