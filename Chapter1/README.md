@@ -1,23 +1,26 @@
 
-### This Chapter is designed to introduce you to the basics of Python. 
+# Chapter 1: Basics
 
-Concepts in this chapter are designed for new programmers.
+This Chapter is designed to introduce you to the basics of Python. Concepts in this chapter are designed for 
+new programmers.
 
-### Files should be completed in the following order.
+## Table of Contents
 
-1. Print
-2. Math
-3. Variables
-4. Casting
-5. Strings
-6. Indexing
-7. Slicing
-8. Lists
-9. KeyboardInput
-10. SimpleMethods
-11. AdvancedMethods
+### Files
 
-### The Tests should be completed in the following order.
+- [Print](./Files/Print.py)
+- [Math](./Files/Math.py)
+- [Variables](./Files/Variables.py)
+- [Casting](./Files/Casting.py)
+- [Strings](./Files/Strings.py)
+- [Indexing](./Files/Indexing.py)
+- [Slicing](./Files/Slicing.py)
+- [Lists](./Files/Lists.py)
+- [Keyboard Input](./Files/KeyboardInput.py)
+- [Simple Methods](./Files/SimpleMethods.py)
+- [Advanced Methods](./Files/AdvancedMethods.py)
 
-1. TestOneOne
-2. TestOneTwo
+### Tests
+
+- [Test One One](./Tests/TestOneOne.py)
+- [Test One Two](./Tests/TestOneTwo.py)

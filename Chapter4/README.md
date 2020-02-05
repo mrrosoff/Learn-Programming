@@ -1,14 +1,14 @@
 
-### This Chapter is designed to introduce you to nuances of Python. 
+# Chapter 4: More 
 
-Concepts in this chapter are designed for advanced programmers.
+This Chapter is designed to introduce you to nuances of Python. Concepts in this chapter are designed for 
+advanced programmers.
 
-### Files should be completed in the following order.
+## Table of Contents
 
-1. Numpy
-2. Pandas
-3. MatPlotLib
+### Files
 
-### The Tests should be completed in the following order.
+- [Numpy](./Files/Numpy.py)
+- [Pandas](./Files/Pandas.py)
+- [MatPlotLib](./Files/MatPlotLib.py)
 
-1. TestTwoOne

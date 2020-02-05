@@ -1,21 +1,24 @@
 
-### This Chapter is designed to introduce you to the rest of Python. 
+# Chapter 2: Loops and Conditionals
 
-Concepts in this chapter are designed for new programmers.
+This Chapter is designed to introduce you to the rest of Python. Concepts in this chapter are designed for 
+new programmers.
 
-### Files should be completed in the following order.
+## Table of Contents
 
-1. SomeMoreAboutLists
-2. RamificationOfTypes
-3. IfConditions
-4. SomeMoreAboutIf
-5. WhileLoops
-6. Range
-7. ForLoopList
-8. ForLoopRange
-9. SomeMoreAboutLoops
-10. FileIO
+### Files
 
-### The Tests should be completed in the following order.
+- [Some More About Lists](./Files/SomeMoreAboutLists.py)
+- [Ramifications Of Types](./Files/RamificationsOfTypes.py)
+- [If Conditions](./Files/IfConditions.py)
+- [Some More About If](./Files/SomeMoreAboutIf.py)
+- [While Loops](./Files/WhileLoops.py)
+- [Range](./Files/Range.py)
+- [For Loop List](./Files/ForLoopList.py)
+- [For Loop Range](./Files/ForLoopRange.py)
+- [Some More About Loops](./Files/SomeMoreAboutLoops.py)
+- [File IO](./Files/FileIO.py)
 
-1. TestTwoOne
+### Tests
+
+- [Test Two One](./Tests/TestTwoOne.py)

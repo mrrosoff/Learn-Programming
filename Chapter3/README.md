@@ -1,19 +1,22 @@
 
-### This Chapter is designed to introduce you to nuances of Python. 
+# Chapter 3: Classes and Iterators 
 
-Concepts in this chapter are designed for advanced programmers.
+This Chapter is designed to introduce you to nuances of Python. Concepts in this chapter are designed for 
+advanced programmers.
 
-### Files should be completed in the following order.
+## Table of Contents
 
-1. Tuples
-2. Sets
-3. Dictionaries
-4. Exceptions
-5. Classes
-6. Inheritance
-7. Iterators
+### Files
 
-### The Tests should be completed in the following order.
+- [Tuples](./Files/Tuples.py)
+- [Sets](./Files/Sets.py)
+- [Dictionaries](./Files/Dictionaries.py)
+- [Exceptions](./Files/Exceptions.py)
+- [Classes](./Files/Classes.py)
+- [Inheritance](./Files/Inheritance.py)
+- [Iterators](./Files/Iterators.py)
 
-1. TestTwoOne
-1. TestTwoTwo
+### Tests
+
+- [Test Three One](./Tests/TestThreeOne.py)
+- [Test Three Two](./Tests/TestThreeTwo.py)
