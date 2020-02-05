@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a3ef76a0-8275-4cea-94e0-584569601e9d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter4/Files/MatPlotLib.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter4/Files/MatPlotLib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter4/Files/Numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter4/Files/Numpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter4/Files/Pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter4/Files/Pandas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter4/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <recent name="$PROJECT_DIR$/Chapter4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Iterators">
+  <component name="RunManager" selected="Python.MatPlotLib">
     <configuration name="Classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,50 +66,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/Files/Classes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learn-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3/Files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/Files/Dictionaries.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learn-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3/Files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/Files/Exceptions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MatPlotLib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,12 +104,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3/Files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter4/Files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/Files/Sets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter4/Files/MatPlotLib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Numpy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learn-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter4/Files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter4/Files/Numpy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pandas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learn-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter4/Files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter4/Files/Pandas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MatPlotLib" />
+        <item itemvalue="Python.Pandas" />
+        <item itemvalue="Python.Numpy" />
         <item itemvalue="Python.Iterators" />
         <item itemvalue="Python.Classes" />
-        <item itemvalue="Python.Exceptions" />
-        <item itemvalue="Python.Dictionaries" />
-        <item itemvalue="Python.Sets" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +202,8 @@
       <workItem from="1580250418563" duration="72000" />
       <workItem from="1580250501575" duration="4000" />
       <workItem from="1580778323523" duration="3387000" />
-      <workItem from="1580873345454" duration="906000" />
+      <workItem from="1580873345454" duration="4244000" />
+      <workItem from="1580919056872" duration="1492000" />
     </task>
     <task id="LOCAL-00001" summary="Fix Packaging and Finish Chapter Two files">
       <created>1579909251330</created>
@@ -254,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580781714567</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update READMEs">
+      <created>1580874259388</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580874259388</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,7 +274,8 @@
     <MESSAGE value="Remove venv from Git" />
     <MESSAGE value="Test" />
     <MESSAGE value="Chapter 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 3" />
+    <MESSAGE value="Update READMEs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update READMEs" />
   </component>
   <component name="WindowStateProjectService">
     <state x="469" y="134" width="558" height="774" key="#Print" timestamp="1579028825847">
@@ -282,34 +290,50 @@
       <screen x="0" y="30" width="1500" height="915" />
     </state>
     <state x="512" y="286" width="488" height="394" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1500.915@0.30.1500.915" timestamp="1580779273009" />
-    <state x="358" y="73" width="780" height="810" key="CommitChangelistDialog2" timestamp="1580781714482">
+    <state x="358" y="71" width="780" height="810" key="CommitChangelistDialog2" timestamp="1580874259236">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state x="358" y="73" width="780" height="810" key="CommitChangelistDialog2/0.30.1500.915@0.30.1500.915" timestamp="1580781714482" />
+    <state x="358" y="71" width="780" height="810" key="CommitChangelistDialog2/0.30.1500.915@0.30.1500.915" timestamp="1580874259236" />
     <state x="536" y="260" width="424" height="517" key="FileChooserDialogImpl" timestamp="1579908650653">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
     <state x="536" y="260" width="424" height="517" key="FileChooserDialogImpl/0.30.1500.915@0.30.1500.915" timestamp="1579908650653" />
-    <state width="1454" height="230" key="GridCell.Tab.0.bottom" timestamp="1580781725175">
+    <state width="1454" height="27" key="GridCell.Tab.0.bottom" timestamp="1580920348095">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state width="1454" height="230" key="GridCell.Tab.0.bottom/0.30.1500.915@0.30.1500.915" timestamp="1580781725175" />
+    <state width="1454" height="27" key="GridCell.Tab.0.bottom/0.30.1500.915@0.30.1500.915" timestamp="1580920348095" />
     <state width="1354" height="236" key="GridCell.Tab.0.bottom/0.30.1500.970@0.30.1500.970" timestamp="1579029107587" />
-    <state width="1454" height="230" key="GridCell.Tab.0.center" timestamp="1580781725175">
+    <state width="1454" height="27" key="GridCell.Tab.0.center" timestamp="1580920348093">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state width="1454" height="230" key="GridCell.Tab.0.center/0.30.1500.915@0.30.1500.915" timestamp="1580781725175" />
+    <state width="1454" height="27" key="GridCell.Tab.0.center/0.30.1500.915@0.30.1500.915" timestamp="1580920348093" />
     <state width="1354" height="236" key="GridCell.Tab.0.center/0.30.1500.970@0.30.1500.970" timestamp="1579029107587" />
-    <state width="1454" height="230" key="GridCell.Tab.0.left" timestamp="1580781725175">
+    <state width="1454" height="27" key="GridCell.Tab.0.left" timestamp="1580920348093">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state width="1454" height="230" key="GridCell.Tab.0.left/0.30.1500.915@0.30.1500.915" timestamp="1580781725175" />
+    <state width="1454" height="27" key="GridCell.Tab.0.left/0.30.1500.915@0.30.1500.915" timestamp="1580920348093" />
     <state width="1354" height="236" key="GridCell.Tab.0.left/0.30.1500.970@0.30.1500.970" timestamp="1579029107586" />
-    <state width="1454" height="230" key="GridCell.Tab.0.right" timestamp="1580781725175">
+    <state width="1454" height="27" key="GridCell.Tab.0.right" timestamp="1580920348094">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state width="1454" height="230" key="GridCell.Tab.0.right/0.30.1500.915@0.30.1500.915" timestamp="1580781725175" />
+    <state width="1454" height="27" key="GridCell.Tab.0.right/0.30.1500.915@0.30.1500.915" timestamp="1580920348094" />
     <state width="1354" height="236" key="GridCell.Tab.0.right/0.30.1500.970@0.30.1500.970" timestamp="1579029107587" />
+    <state width="1454" height="287" key="GridCell.Tab.1.bottom" timestamp="1580918560121">
+      <screen x="0" y="30" width="1500" height="915" />
+    </state>
+    <state width="1454" height="287" key="GridCell.Tab.1.bottom/0.30.1500.915@0.30.1500.915" timestamp="1580918560121" />
+    <state width="1454" height="287" key="GridCell.Tab.1.center" timestamp="1580918560121">
+      <screen x="0" y="30" width="1500" height="915" />
+    </state>
+    <state width="1454" height="287" key="GridCell.Tab.1.center/0.30.1500.915@0.30.1500.915" timestamp="1580918560121" />
+    <state width="1454" height="287" key="GridCell.Tab.1.left" timestamp="1580918560120">
+      <screen x="0" y="30" width="1500" height="915" />
+    </state>
+    <state width="1454" height="287" key="GridCell.Tab.1.left/0.30.1500.915@0.30.1500.915" timestamp="1580918560120" />
+    <state width="1454" height="287" key="GridCell.Tab.1.right" timestamp="1580918560121">
+      <screen x="0" y="30" width="1500" height="915" />
+    </state>
+    <state width="1454" height="287" key="GridCell.Tab.1.right/0.30.1500.915@0.30.1500.915" timestamp="1580918560121" />
     <state x="532" y="217" width="431" height="555" key="RollbackChangesDialog" timestamp="1580779327143">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
@@ -319,10 +343,10 @@
     </state>
     <state x="257" y="139" width="986" height="735" key="SettingsEditor/0.30.1500.915@0.30.1500.915" timestamp="1580779518674" />
     <state x="257" y="152" width="986" height="735" key="SettingsEditor/0.30.1500.970@0.30.1500.970" timestamp="1579029086812" />
-    <state x="348" y="213" width="800" height="533" key="Vcs.Push.Dialog.v2" timestamp="1580781715892">
+    <state x="348" y="211" width="800" height="533" key="Vcs.Push.Dialog.v2" timestamp="1580874261405">
       <screen x="0" y="30" width="1500" height="915" />
     </state>
-    <state x="348" y="213" width="800" height="533" key="Vcs.Push.Dialog.v2/0.30.1500.915@0.30.1500.915" timestamp="1580781715892" />
+    <state x="348" y="211" width="800" height="533" key="Vcs.Push.Dialog.v2/0.30.1500.915@0.30.1500.915" timestamp="1580874261405" />
     <state x="445" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1579028622433">
       <screen x="0" y="30" width="1500" height="970" />
     </state>
@@ -343,14 +367,17 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LearnPython$Print.coverage" NAME="Print Coverage Results" MODIFIED="1579029102644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/Files" />
-    <SUITE FILE_PATH="coverage/Learn_Python$Tuples.coverage" NAME="Tuples Coverage Results" MODIFIED="1580779769000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter3/Files" />
     <SUITE FILE_PATH="coverage/Learn_Python$Iterators.coverage" NAME="Iterators Coverage Results" MODIFIED="1580781696475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter3/Files" />
     <SUITE FILE_PATH="coverage/Learn_Python$FileIO.coverage" NAME="FileIO Coverage Results" MODIFIED="1580779540084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Files" />
+    <SUITE FILE_PATH="coverage/Learn_Python$WhileLoops.coverage" NAME="WhileLoops Coverage Results" MODIFIED="1579908931915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Files" />
+    <SUITE FILE_PATH="coverage/Learn_Python$MatPlotLib.coverage" NAME="MatPlotLib Coverage Results" MODIFIED="1580920348077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter4/Files" />
+    <SUITE FILE_PATH="coverage/Learn_Python$Print.coverage" NAME="Print Coverage Results" MODIFIED="1579908882784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/Files" />
+    <SUITE FILE_PATH="coverage/Learn_Python$Exceptions.coverage" NAME="Exceptions Coverage Results" MODIFIED="1580780172585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter3/Files" />
+    <SUITE FILE_PATH="coverage/Learn_Python$Tuples.coverage" NAME="Tuples Coverage Results" MODIFIED="1580779769000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter3/Files" />
     <SUITE FILE_PATH="coverage/Learn_Python$Sets.coverage" NAME="Sets Coverage Results" MODIFIED="1580779885320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter3/Files" />
     <SUITE FILE_PATH="coverage/Learn_Python$Classes.coverage" NAME="Classes Coverage Results" MODIFIED="1580780933940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter3/Files" />
-    <SUITE FILE_PATH="coverage/Learn_Python$WhileLoops.coverage" NAME="WhileLoops Coverage Results" MODIFIED="1579908931915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2/Files" />
-    <SUITE FILE_PATH="coverage/Learn_Python$Print.coverage" NAME="Print Coverage Results" MODIFIED="1579908882784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1/Files" />
+    <SUITE FILE_PATH="coverage/Learn_Python$Numpy.coverage" NAME="Numpy Coverage Results" MODIFIED="1580874891821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter4/Files" />
+    <SUITE FILE_PATH="coverage/Learn_Python$Pandas.coverage" NAME="Pandas Coverage Results" MODIFIED="1580919931373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter4/Files" />
     <SUITE FILE_PATH="coverage/Learn_Python$Dictionaries.coverage" NAME="Dictionaries Coverage Results" MODIFIED="1580780016526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter3/Files" />
-    <SUITE FILE_PATH="coverage/Learn_Python$Exceptions.coverage" NAME="Exceptions Coverage Results" MODIFIED="1580780172585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter3/Files" />
   </component>
 </project>
