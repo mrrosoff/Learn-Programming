@@ -25,8 +25,8 @@ if __name__ == "__main__":
     twoToTheFifth = doPower(2, 5)
     threeSquared = doPower(3, 2)
 
-    print("Chapter2 to the Fifth is: ", twoToTheFifth)
-    print("Chapter3 Squared is: ", threeSquared)
+    print("Two to the Fifth is: ", twoToTheFifth)
+    print("Three Squared is: ", threeSquared)
 
     showcaseVariable = 2
     exampleOfCopy(showcaseVariable)
