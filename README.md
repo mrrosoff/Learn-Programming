@@ -1,6 +1,6 @@
 # Learn-Python
 
-### A Library of Python Files Used to Teach Python. 
+### A Library of Python Files Used to Teach Python
 
 ## How to Proceed
 
