@@ -1,1 +1,36 @@
-/venv/
+# IDE Files
+
+.idea
+.vscode
+
+# MacOS Files
+
+.DS_Store
+
+# Node Files
+
+node_modules
+package-lock.json
+
+# Python files
+
+/venv
+/env
+__pycache__
+
+# Output Files
+
+build
+coverage
+dist
+lib
+out
+
+# Server Files
+
+dependency-reduced-pom.xml
+target
+
+# Test Files
+
+.nyc_output
