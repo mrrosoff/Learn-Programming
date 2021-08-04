@@ -1,7 +1,6 @@
-
 # Chapter 3: Classes and Iterators 
 
-This Chapter is designed to introduce you to nuances of Python. Concepts in this chapter are designed for 
+This chapter is designed to introduce you to nuances of Python. Concepts in this chapter are designed for 
 advanced programmers.
 
 ## Table of Contents

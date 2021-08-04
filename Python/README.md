@@ -1,20 +1,19 @@
-# Learn-Python
+# Python
 
-### A Library of Python Files Used to Teach Python
+### A Quick Catchup Couse
 
-## How to Proceed
+## Overview
 
-1. Download the repository and follow the instructions included to setup your development environment. 
+In this course, you will learn Python through interactive files. You will learn elements of the language, and use them to solve small tests, designed to gauge your understanding.
 
-2. Then simply follow the instructions included with each chapter at your own pace. In Each file in Files you will find a file that 
-explains a section of the Python programming language. Complete each file and then attempt the tests. 
+## Instructions
 
-3. At the end of the day, you should have learned Python! If you have any questions or concerns about the content feel free
- to make an issue and add me as the assignee. I will get back to you as soon as I can.
+1. Follow the [included instructions](./SettingUpDevEnv.md) to setup your development environment. 
+   
+2. Follow the instructions included with each chapter at your own pace. In each chapter, you will find files that explain a section of the language. Complete each file and then attempt the tests. 
+
+3. At the end of the day, you should have learned the basics of Python!
 
 ## Table of Contents
 
-- [Chapter 1: Basics](./Chapter1)
-- [Chapter 2: Loops and Conditionals](./Chapter2)
-- [Chapter 3: Classes and Iterators](./Chapter3)
-- [Chapter 4: More](./Chapter4)
+[Chapter 1](./Chapter1), [Chapter 2](./Chapter2), [Chapter 3](./Chapter3), [Chapter 4](./Chapter4)

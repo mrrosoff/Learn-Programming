@@ -1,7 +1,6 @@
-
 # Chapter 1: Basics
 
-This Chapter is designed to introduce you to the basics of Python. Concepts in this chapter are designed for 
+This chapter is designed to introduce you to the basics of Python. Concepts in this chapter are designed for 
 new programmers.
 
 ## Table of Contents

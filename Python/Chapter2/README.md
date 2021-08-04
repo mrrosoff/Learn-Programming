@@ -1,7 +1,6 @@
-
 # Chapter 2: Loops and Conditionals
 
-This Chapter is designed to introduce you to the rest of Python. Concepts in this chapter are designed for 
+This chapter is designed to introduce you to the rest of Python. Concepts in this chapter are designed for 
 new programmers.
 
 ## Table of Contents
