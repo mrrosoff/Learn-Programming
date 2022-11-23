@@ -1,8 +1,8 @@
 
 if __name__ == "__main__":
 
-    # A For Loop is the primary reason to use Python. It is beautiful. It is elegant. It is delicious. It is adorable.
-    # I could go on and on. The for loop in Python is infinitely versatile.
+    # A for loop is the primary reason to use Python. It is beautiful. It is elegant. It makes me happy and it should make
+    # you happy too. The for loop in Python is infinitely versatile.
 
     aList = [1, 2, 3, 4, 5]
 
@@ -19,7 +19,7 @@ if __name__ == "__main__":
 
     for item in "This is a String":
 
-        print(item, end="")
+        print(item)
 
     print()
 

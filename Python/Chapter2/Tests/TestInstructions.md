@@ -1,5 +1,4 @@
-
-#Test Instructions
+# Test Instructions
 
 ## Background 
 The file Mauna-Loa-Data.txt is included inside of this directory. The file has the following fields in the following 
@@ -42,4 +41,3 @@ Print out the following values:
 2. The largest reading of global solar radiation
 3. The smallest reading of wind speed
 4. The standard derivative of the samples infrared surface temperature
-

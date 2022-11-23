@@ -20,4 +20,4 @@ new programmers.
 
 ### Tests
 
-- [Test Two One](./Tests/TestTwoOne.py)
+- [Test Two One](./Tests/TestInstructions.md)

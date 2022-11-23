@@ -17,7 +17,7 @@ if __name__ == "__main__":
     # The purpose of this file is to teach the range function. The range function returns a list of integers. There are
     1 to 3 parameters to this function.
     
-    # Then most basic form. This parameter acts as the final point of the list. It returns a list from 0 to n.
+    # The most basic form. This parameter acts as the final point of the list. It returns a list from 0 to n.
     # range(n)
     
     print(range(10))
