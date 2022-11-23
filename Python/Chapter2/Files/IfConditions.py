@@ -1,11 +1,4 @@
 
-# SKIP THIS SECTION UNTIL TOLD TO RETURN
-
-
-
-
-
-
 # Say we wanted to write a method that returns whether a number is less than 10. We would write a method like so.
 
 def lessThanTen(aNumber):

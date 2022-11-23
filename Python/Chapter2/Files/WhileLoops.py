@@ -1,10 +1,4 @@
 
-# SKIP THIS SECTION UNTIL TOLD TO RETURN
-
-
-
-
-
 if __name__ == "__main__":
 
     # Say we want to add all the numbers up between 1 and 1000. We could type all the numbers into a calculator, but

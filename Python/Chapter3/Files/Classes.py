@@ -1,8 +1,7 @@
 
 # This is the hardest part of Python. Just warning you.
 
-# Here is a class. Classes hold two things, data and methods.
-
+# Here is a class. Classes can hold two things, data and methods.
 
 class MyClass:
 

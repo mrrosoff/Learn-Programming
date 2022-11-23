@@ -7,7 +7,7 @@ if __name__ == "__main__":
         "id": 467,
         "year": 2009,
         "brand": "toyota",
-        "model": "tocoma"
+        "model": "tacoma"
     }
 
     print(aDictionary)
