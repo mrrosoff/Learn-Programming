@@ -100,7 +100,7 @@ t²B ⋅ B + 2tB ⋅ (A − C) + (A − C) ⋅ (A − C) − R² = 0
 
 The vectors and `R` in that equation are all constant and known. The unknown is `t`, and the equation is a [quadratic](https://en.wikipedia.org/wiki/Quadratic_formula), like you probably saw in your high school math class. You can solve for `t` and there is a square root part that is either positive (meaning two real solutions), negative (meaning no real solutions), or zero (meaning one real solution). In graphics, the algebra almost always relates very directly to the geometry. What we have is represented by the following image.
 
-![Ray-sphere intersection results](https://raytracing.github.io/images/fig-1.04-ray-sphere.jpg)
+![Ray-sphere intersection results](https://raytracing.github.io/images/fig-1.05-ray-sphere.jpg)
 
 In other words, we need to see if the discriminant of the quadratic equation is positive. If it is, the `Ray` hit the `Sphere`, otherwise, we are out of luck. Here is the discriminant, having solved the quadratic equation for `t`.
 
