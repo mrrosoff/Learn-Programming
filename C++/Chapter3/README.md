@@ -44,7 +44,7 @@ We can then utilize this `t` value to solve for `P`. The `t` value can be solved
 
 First, let’s get ourselves a surface normal so we can shade. This is a vector that is perpendicular to the surface at the point of intersection. For a `Sphere`, the outward normal is in the direction of the hit point minus the center divided by the radius.
 
-![Surface Normal Geometry](https://raytracing.github.io/images/fig-1.05-sphere-normal.jpg)
+![Surface Normal Geometry](https://raytracing.github.io/images/fig-1.06-sphere-normal.jpg)
 
 On the earth, this implies that the vector from the earth’s center to you points straight up. To calculate the surface normal, we can utilize the following formula, depicted in the picture above, where `N` is the surface normal of the `Sphere`.
 
