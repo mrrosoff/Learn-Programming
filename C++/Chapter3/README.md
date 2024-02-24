@@ -44,7 +44,7 @@ We can then utilize this `t` value to solve for `P`. The `t` value can be solved
 
 First, let’s get ourselves a surface normal so we can shade. This is a vector that is perpendicular to the surface at the point of intersection. For a `Sphere`, the outward normal is in the direction of the hit point minus the center divided by the radius.
 
-![Surface Normal Geometry](https://raytracing.github.io/images/fig-1.07-sphere-normal.jpg)
+![Surface Normal Geometry](https://raytracing.github.io/images/fig-1.06-sphere-normal.jpg)
 
 On the earth, this implies that the vector from the earth’s center to you points straight up. To calculate the surface normal, we can utilize the following formula, depicted in the picture above, where `N` is the surface normal of the `Sphere`.
 
@@ -64,7 +64,7 @@ Vector3D randomVector = makeRandomUnitVector();
 
 ### Metal Materials
 
-![](https://raytracing.github.io/images/fig-1.12-reflection.jpg)
+![](https://raytracing.github.io/images/fig-1.15-reflection.jpg)
 
 For a metal material, the formula to calculate the bounce is as follows, where again `B` is the `Ray` direction, and `N` is the surface normal of the sphere. The mathematics here are not too important, but if you are curious, we are calculating a perfect reflection, without accidentally falling through the object we are hitting.
 
@@ -76,7 +76,7 @@ newDirection = B - 2 * (B ⋅ N) * N
 
 Glass is hard, because we need to consider [Snells Law](https://en.wikipedia.org/wiki/Snell%27s_law). Here is a picture that demonstrates the concept of refraction.
 
-![Snells Law](https://raytracing.github.io/images/fig-1.14-refraction.jpg)
+![Snells Law](https://raytracing.github.io/images/fig-1.17-refraction.jpg)
 
 How do we go about solving for the resulting bounce? Well, in an attempt to not overload you with how much math we are doing, lets just say the following equations show the solution to the problem.
 
